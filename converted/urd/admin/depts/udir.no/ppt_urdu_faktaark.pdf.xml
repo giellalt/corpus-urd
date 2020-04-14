@@ -1,81 +1,41 @@
-<document xml:lang="urd" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>831</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="urd"/>
-    </multilingual>
-    <origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_urdu_faktaark.pdf</origFileName>
-    <parallel_text xml:lang="eng" location="ppt_engelsk_faktaark.pdf"/>
-    <parallel_text xml:lang="nno" location="ppt_nynorsk-faktaark.pdf"/>
-    <parallel_text xml:lang="nob" location="ppt_norsk_bokmal_faktaark.pdf"/>
-    <parallel_text xml:lang="rus" location="ppt_russisk_faktaark.pdf"/>
-    <parallel_text xml:lang="sma" location="ppt_sorsamisk_faktaark.pdf"/>
-    <parallel_text xml:lang="sme" location="ppt_nordsamisk_faktaark.pdf"/>
-    <parallel_text xml:lang="smj" location="ppt_lulesamisk_faktaark.pdf"/>
-    <parallel_text location="ppt_arabisk_faktaark.pdf" xml:lang="ara"/>
-    <parallel_text location="ppt_persisk_faktaark.pdf" xml:lang="fas"/>
-    <parallel_text location="ppt_fransk_faktaark.pdf" xml:lang="fra"/>
-    <parallel_text location="ppt_sorani_faktaark.pdf" xml:lang="ckb"/>
-    <parallel_text location="ppt_vietnamesisk_faktaark.pdf" xml:lang="vie"/>
-    <parallel_text location="ppt_somalisk_faktaark.pdf" xml:lang="som"/>
-    <parallel_text location="ppt_tyrkisk_faktaark.pdf" xml:lang="tur"/>
-    <parallel_text location="ppt_polsk_faktaark.pdf" xml:lang="pol"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">ﺲﻮﺮﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ ﺖﺎﻤﻮﻠﻌﻤ ںﯿﻤ ےﺭﺎﺒ ﮯﻜ<em type="italic"> </em></p>
-    <p xml:lang="nob"><em type="bold">ﺲﻮﺭﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ  (PPT) </em></p>
-    <p xml:lang="nob">ﺲﻮﺮﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ  ﻬﺘﺎﺴ ﮯﻜ ﺭﺎﺼﺘﺨﺍ ﺮﺜﻜﺍ ﮯﺴﺠ)PPT    ﺎﯿPP-tjenesten (ﮯﮨ ﺎﺘﺎﺠ ﺎﮩﻜ  ﯽﮣﻨﺆﺎﻜ ﺎﯿ ہﯿﺪﻠﺒ  ﯽﮣﻠﭙﺴﻨﻮﯿﻤ(fylkeskommune)ﺖﺤﺘ ﮯﻜ  ﯽﺘﺭﻮﺎﺸﻤ کﯿﺍﺲﻮﺮﺴ ﮯﮨﻤ ﺎﻜ ﺲﺍ ۔ ﯽﻜ ﺪﺍﺮﻓﺍ ﻎﻟﺎﺒ ﺭﻮﺍ ںﻮﻨﺍﻮﺠﻮﻨ ،ںﻮﭽﺒ ﻦﺍ ﺪﺼﻘ ﻤﯿﻠﻌﺘ ﯽﻜ ﻦﺠ ﺎﯿ ںﻮﮨ ﻝﺌﺎﺴﻤ ﮯﻜ ﺎﻤﻨﻮﻮﺸﻨ ںﯿﮩﻨﺠ ﮯﮨ ﺎﻨﺮﻜ ﺪﺪﻤﯽ ۔ﻮﮨ ﻝﻜﺸﻤ ﻝﺎﺤﺘﺭﻮﺼ</p>
-    <p xml:lang="nob">ﮕﺎﮨ ﮯﻨﺭﺎﺒ ہﻜ ﮯﮨ ﻝﻤﺎﺸ ﯽﻬﺒ ہﯿ ںﯿﻤ ںﻮﻤﺎﻜ ﮯﻜ ﺲﻮﺮﺴ ﺲﺍ ﻦﺍ ﻮﻜ ںﻮﻟﻮﻜﺴ ﺭﻮﺍ (ﺰﻜﺍﺮﻤ ﯽﺘﺸﺍﺪﮩﮕﻨ ﮯﻜ ںﻮﭽﺒ ﮯﮣﻮﻬﭽ) ﺮ ﺌﻠﯿﻜ ﮯﻨﺮﻜ ﺖﺎﻤﺎﻈﺘﻨﺍ ںﻮﺯﻮﻤ ﮯﺌﻠﯿﻜ ںﻮﻤﻠﻌﺒﻟﺎﻄ/ںﻮﭽﺒ۔ﻮﮨ ﺖﺭﻮﺮﻀ ﯽﻜ ﺖﺎﻤﺎﻈﺘﻨﺍ ﮯﺴﯿﺍ ںﯿﮩﻨﺠ ےﺪ ﯽﺌﺎﻤﻨﮨﺭ ﻮ ﻩﺭﻮﺸﻤ ﮯ</p>
-    <p xml:lang="nob">ﺲﻮﺮﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ  ﻢﺎﻈﺘﻨﺍ ﺮﺘﮩﺒ ﺎﻜ ﻢﯿﻠﻌﺘ ﯽﻜ ںﻮﻤﻠﻌﺒﻟﺎﻄ ﮯﻟﺍﻮ ﮯﻨﻬﻜﺭ ﺖﺎﯿﺭﻮﺮﻀ ﯽﺼﻮﺼﺨ ہﻜ ﮯﮨ ﻢﺎﻜ ﺎﻜ  ﺪﺪﻤ ﻮﻜ ںﻮﻟﻮﻜﺴ ﮯﺌﻠﯿﻜ ﮯﻨﺮﻜﺪ۔ے</p>
-    <p xml:lang="nob">ﻮﻜ ﺖﺎﻤﻮﻠﻌﻤ ںﯿﻤ ےﺭﺎﺒ ﮯﻜ ﻢﻠﻌﺒﻟﺎﻄ/ﮯﭽﺒ  ۔ﮯﮨ یﺪﻨﺒﺎﭙ ﯽﻜ یﺭﺍﺪﺯﺍﺭ ﺮﭙ ﺲﻮﺮﺴ ﺲﺍ  ﯽﻜ ﻦﯿﺪﻟﺍﻮ ﺭﻮﺍ ﺎﺘﻜﺴ ﺎﺠ ﺎﯿﻜ ںﯿﮩﻨ ﻢﺎﻋ</p>
-    <p xml:lang="nob">ﻮﻜ ﺖﺎﻤﻮﻠﻌﻤ ںﯿﻤ ےﺭﺎﺒ ﮯﻜ ﻢﻠﻌﺒﻟﺎﻄ/ﮯﭽﺒ ۔ںﯿﺘﺎﺠ یﺪ ںﯿﮩﻨ ﻮﻜ ﯽﺴﻜ ﮯﮕﺁ ﺖﺎﻤﻮﻠﻌﻤ ہﯿﺮﯿﻐﺒ ﮯﻜ یﺭﻮﻈﻨﻤﯽﮣﺭﺎﻬﺘﺍ ﻦﺸﻜﯿﮣﻮﺮﭙ ﺎﮣﺍڈ (Datatilsynet)  گﻟﺍ کﯿﺍ ﻖﺒﺎﻄﻤ ﮯﻜ ﺖﺎﯿﺍﺪﮨ ﯽﻜ/کﺒ ڈﺭﺎﻜﯿﺭ۔ﮯﮨ ﺎﺘﺎﺠ ﺎﻬﻜﺭ ﻈﻮﻔﺤﻤ ںﯿﻤ ﻝﺌﺎﻓ</p>
-    <p xml:lang="nob"><em type="bold">ﺲﻮﺭﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ ؟ﮯﮨ ﯽﺘﺭﻜ ﺎﯿﻜ </em></p>
-    <p xml:lang="nob">ﺲﻮﺮﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ  ﮯﮨ ﯽﺘﺮﻜ ﺭﺎﯿﺘ ٹﺭﻮﭙﺭ ﯽﻜ ﺖﯿﻔﯿﻜ ﯽﻜ ںﻮﻐﻟﺎﺒ ﺭﻮﺍ ںﻮﻨﺍﻮﺠﻮﻨ ،ںﻮﭽﺒ ﻦﺍﺭﻮﺍ  ﻮ ﻩﺭﻮﺸﻤ  ںﯿﮩﻨﺠ ﮯﮨ ﯽﺘﺮﻜ ﺎﯿﮩﻤ ﯽﺌﺎﻤﻨﮨﺭﻮﮨ ﺎﻨﻤﺎﺴ ﺎﻜ ﻝﺌﺎﺴﻤ ﻦﺍ</p>
-    <p type="listitem" xml:lang="nob">• ﻝﺌﺎﺴﻤ ﮯﻜ ﮯﻨﻟﻮﺒ ﺭﻮﺍ ﻦﺎﺒﺯ</p>
-    <p type="listitem" xml:lang="nob">• ﻝﺌﺎﺴﻤ ﮯﺴ ﮯﻟﺍﻮﺤ ﮯﻜ ﻦﯿﻤﺎﻀﻤ ﺎﯿ ﻝﺌﺎﺴﻤ ﯽﻤﻮﻤﻋ ﮯﻜ ﮯﻨﻬﻜﯿﺴ</p>
-    <p type="listitem" xml:lang="nob">• ﯿﻤ ﮯﻨﻬﻜﻟ ﺭﻮﺍ ﮯﻨﻫﮍﭙﻝﺌﺎﺴﻤ ں</p>
-    <p type="listitem" xml:lang="nob">• ﻝﺌﺎﺴﻤ ﮯﺴ ﮯﻟﺍﻮﺤ ﮯﻜ ﺐﺎﺴﺤ</p>
-    <p type="listitem" xml:lang="nob">• ﻝﺌﺎﺴﻤ ںﯿﻤ ﮯﻨﻬﻜﺭ ﺭﺍﺮﻗﺮﺒ ہﺠﻮﺘ</p>
-    <p type="listitem" xml:lang="nob">• ﻝﺌﺎﺴﻤ ﯽﺘﺎﺒﺬﺠ ﺭﻮﺍ ﻝﺸﻮﺴ</p>
-    <p type="listitem" xml:lang="nob">• ﻝﺌﺎﺴﻤ ﮯﻜ ﮯّﯿﻮﺭ</p>
-    <p type="listitem" xml:lang="nob">• ﻝﺌﺎﺴﻤ ﮯﻜ ﺖﻋﺎﻤﺴ ﺭﻮﺍ ﺮﻈﻨ</p>
-    <p xml:lang="nob"><em type="bold"> ﻩﺪﻟﺍﻮ/ﺪﻟﺍﻮ ﺖﯿﺜﯿﺤﺒ پﺁﺲﻮﺭﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ  ﮯﺘﻜﺴ ﺭﻜ ہﻄﺒﺍﺭ ﮯﺴﯿﻜ ﮯﺴ</em> <em type="bold"> ؟ںﯿﮨ </em></p>
-    <p xml:lang="nob">ﺴ/ﮯﮕﺎﮨ ﮯﻨﺭﺎﺒ/ﻦﺸﯿﮣﺴ ﻬﺘﻠﯿﮨ ﻮﻜ پﺁ ﮯﻠﮩﭙ ﮯﺴ ﮯﻨﺮﻜ ہﻄﺒﺍﺭ ﮯﺴ ﺲﻮﺮﺴ ﺮﭙ ﺶﯿﻮﺸﺘ ﯽﻨﭙﺍ ںﯿﻤ ےﺭﺎﺒ ﮯﻜ ﮯﭽﺒ ﻬﺘﺎﺴ ﮯﻜ ﻝﻮﻜ  ۔ﮯﺌﯿﮨﺎﭽ ﯽﻨﺮﻜ ﺖﺎﺒ  ﺪﺪﻤ ﯽﻜ ﺪﺍﺮﻓﺍ ﻎﻟﺎﺒ ﻦﺍ ﺲﻮﺮﺴ ۔ںﯿﮨ ﮯﺘﻜﺴ ﺮﻜ ہﻄﺒﺍﺭ ﮯﺴ ﺲﻮﺮﺴ ﯽﻬﺒ ﻢﻠﻌﺒﻟﺎﻄ ﮯﻜ ﺮﻤﻋ ﻩﺪﺎﯿﺯ ﮯﺴ ﻝﺎﺴ</p>
-    <p xml:lang="nob">۔ںﻮﮨ ﮯﺘﮨﺎﭽ ﺎﻨﺮﻜ ﻝﺼﺎﺤ ﻢﯿﻠﻌﺘ ﯽﻜ ﻝﻮﻜﺴ ﯽﺌﺎﮨ ﺎﯿ یﺮﻤﺌﺍﺮﭙ ﻮﺠ ﮯﮨ ﯽﺘﻜﺴ ﺮﻜ ﯽﻬﺒ</p>
-    <p xml:lang="nob">،ﮯﮕﺎﮨ ﮯﻨﺭﺎﺒ) ےﺭﺍﺪﺍ ﻬﺘﺎﺴ ﻬﺘﺎﺴ ﮯﻜ ﺪﺍﺮﻓﺍۓﻮﮨ ﮯﺘﻬﻜﺭ ہﯿﻔﺨ ﻢﺎﻨ ﺎﻨﭙﺍ ﯽﻬﺒ (ےﺭﺍﺪﺍ ےﺮﺴﻮﺪ ﺭﻮﺍ ﻝﻮﻜﺴ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ ﺲﻮﺮﺴ گﻨﻠﺴﻨﺆﺎﻜ ۔ںﯿﮨ ﮯﺘﻜﺴ گﻨﺎﻤ ﻩﺭﻮﺸﻤ ﮯﻜ ﺮﻜ ہﻄﺒﺍﺭ ﮯﺴ</p>
-    <p xml:lang="nob">ﺮﮕﺍﺲﻮﺮﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ  ﺎﺠ ﺎﺠﯿﻬﺒ ﺲﺎﭙ ﮯﻜ ﺲﻮﺮﺴ ﺲﯿﻜ ﺎﻜ ﻢﻠﻌﺒﻟﺎﻄ/ﮯﭽﺒ ﻮﺘ ﻮﮨ یﺭﻮﺮﻀ ﺎﻨﯿﻟ ﺪﺪﻤ ﺪﯿﺰﻤ ﮯﺴ  ﮯﻨﺠﯿﻬﺒ ﺲﯿﻜ ﺲﺎﭙ ﮯﻜ ﺲﻮﺮﺴ  ۔ﮯﮨ ﺎﺘﻜﺴ(Henvisning)  ﯽﻨﭙﺍ ،ﮯﮨ ﺎﺘﺎﺠ ﺎﯿﻜ ﻝﺎﻤﻌﺘﺴﺍ ﻢﺭﺎﻓ ﻝﺮﻔﯿﺭ کﯿﺍ ﻢﻮﻤﻌﻟﺎﺒ ﮯﺌﻠﯿﻜ  ہﻄﺒﺍﺭ ﮯﺴ ﻝﻮﻜﺴ/ﮯﮕﺎﮨ ﮯﻨﺭﺎﺒ ﮯﺌﻠﯿﻜ ﮯﻨﯿﻟ ﺪﺪﻤ ںﯿﻤ ﮯﻨ ﺮﻜ ﻝﻤﻜﻤ ﻢﺭﺎﻓ ﻝﺮﻔﯿﺭ ۔ںﯿﻬﻜﯿﺪ ٹﯿﺌﺎﺴ ﺐﯿﻮ ﺎﻜ ﯽﮣﻠﭙﺴﻨﻮﯿﻤ ﯽﮣﻨﺆﺎﻜ/ہﯿﺪﻠﺒ ۔ںﯿﺮﻜ</p>
-    <p xml:lang="nob">ﻮﺠ ےﺮﺴﻮﺪﺲﻮﺮﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ :ںﯿﮨ ﮯﺘﻜﺴ ﺞﯿﻬﺒ ﺲﯿﻜ ﺲﺎﭙ ﮯﻜ</p>
-    <p xml:lang="nob">1</p>
-    <p type="listitem" xml:lang="nob">• ﻩﺭﺍﺪﺍ ﺎﻜ ںﺎﻐﻟﺎﺒ ﻢﯿﻠﻌﺘ ﺭﻮﺍ ﻝﻮﻜﺴ ،ﮯﮕﺎﮨ ﮯﻨﺭﺎﺒ</p>
-    <p type="listitem" xml:lang="nob">•  ﻢﻠﻌﺒﻟﺎﻄ/ہﭽﺒ ﺮﮕﺍ ،ﻝﺎﺘﭙﺴﮨ ﺭﻮﺍ ﻦﺸﯿﮣﺴ ﻬﺘﻠﯿﮨ ۔ﮯﻜ ﺮﻜ ﻝﺼﺎﺤ ﺖﺯﺎﺠﺍ ﮯﺴ ﻦﯿﺪﻟﺍﻮ ﻮﺘ ﻮﮨ ﺎﻜ ﺮﻤﻋ ﻢﻜ ﮯﺴ ﻝﺎﺴ</p>
-    <p xml:lang="nob">ﻢﯿﻠﻌﺘ ﯽﺼﻮﺼﺨ ﻮﻜ ﻢﻠﻌﺒﻟﺎﻄ ﺎﯿﺁ ہﻜ ےﺮﻜ ٹﺴﯿﮣ یﺭﻮﺮﻀ ﮯﺌﻠﯿﻜﮯﻨﻼﭽ ہﺘﭙ ہﯿ ﻝﻮﻜﺴ ہﻜ  ںﯿﮨ ﮯﺘﻜﺴ ﺮﻜ ﺎﻀﺎﻘﺘ ﻦﯿﺪﻟﺍﻮ ﺎﯿ ﻢﻠﻌﺒﻟﺎﻄ ﮨ ﺖﺭﻮﺮﻀ ﯽﻜ۔ﮯﮨ  ﺖﺭﻮﺮﻀ ﯽﻜ ﻢﯿﻠﻌﺘ ﯽﻜ ﻢﺴﻗ ﺲﻜ ﻮﺘ ﻮﮨ ںﯿﻤ ںﺎﮨ ﺐﺍﻮﺠ ﺮﮕﺍ ﺭﻮﺍ ﮯ</p>
-    <p xml:lang="nob"><em type="bold">ﺲﻮﺭﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ ؟ﮯﮨ ﯽﺘﺭﻜ ﻢﺎﻜ ﺡﺭﻄ ﺲﻜ </em></p>
-    <p xml:lang="nob">ﺲﻮﺮﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ  ﮯﻜ ﺖﺎﻨﺎﻜﻤﺍ ﮯﻜ ﻢﻠﻌﺒﻟﺎﻄ/ﮯﭽﺒ ۓﻮﮨ ﮯﺘﺮﻜ ﻢﺎﻜ ﮯﺴ ﻦﻮﺎﻌﺘ ﮯﻜ ﻝﻮﻜﺴ ﺭﻮﺍ ﮯﮕﺎﮨ ﮯﻨﺭﺎﺒ</p>
-    <p xml:lang="nob">ﯿﻤ ﺲﻮﺮﺴ ﺲﺍ ۔ﮯﮨ ﯽﺘﺮﻜ ﺎﯿﮩﻤ ﺶﻜﺸﯿﭙ ںﻮﺯﻮﻤ ﻖﺒﺎﻄﻤ:ﮯﮨ ﺎﺘﻜﺴ ﺎﺠ ﺎﯿﻜ ﻢﯿﺴﻘﺘ ںﯿﻤ ںﻮﻠﺤﺮﻤ ﻦﯿﺘ ﻮﻜ ﯽﺌﺍﻮﺭﺭﺎﻜ ﺮﭙ ںﻮﺴﯿﻜ ں</p>
-    <p xml:lang="nob">. ﺖﻴﻔﻴﮐ<em type="italic"> </em>ﯽﮐ<em type="italic"> </em>ٹﺭﻮﭘﺭ<em type="italic"> </em></p>
-    <p xml:lang="nob">ﺐﺠﺲﻮﺮﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ  ﻮﻜ ﻉﻼﻄﺍ/ﺲﯿﻜ کﯿﺍﮯﻠﻤ  ،ﻦﯿﺪﻟﺍﻮ ہﻜ ﮯﮨ ﺎﺘﺎﺠ ﺎﯿﻜ ہﺘﭙ ہﯿ ﺮﭙ ﺭﻮﻄ ﻢﺎﻋ ﻮﺘ ﺪﮨﺎﺸﻤ ،ﻮﯿﻮﺮﮣﻨﺍ/ﺖﯿﭽ ﺖﺎﺒ ۔ںﯿﮨ ﮯﺘﮨﺎﭽ ﺪﺪﻤ ںﯿﻤ ﮯﻠﺴﻠﺴ ﺲﻜ  ،ﮯﺴ ﻦﻮﺎﻌﺘ ﮯﻜ ﻝﻮﻜﺴ ﺎﯿﮯﮕﺎﮨ ﮯﻨﺭﺎﺒ گﻨﮣﺴﯿﮣ ﺭﻮﺍ ے  ﻝﻤﻜﻤ ﻩﺪﺎﯿﺯ ﮯﺴ ﻩﺪﺎﯿﺯ ںﯿﻤ ےﺭﺎﺒ ﺲﺍ ﺲﻮﺮﺴ ﮯﻌﯿﺭﺬ ﮯﻜﻜ ﻝﺼﺎﺤ ﺖﺎﻤﻮﻠﻌﻤ ﮯﻜ ﻢﻠﻌﺒﻟﺎﻄ/ﮯﭽﺒ ہﻜ ﮯﮨ ﯽﺘﯿﻟ ﺮ  ﺲﻮﺮﺴ ﺎﯿ ﻝﻮﻜﺴ ،ﮯﮕﺎﮨ ﮯﻨﺭﺎﺒ ﻢﺎﻜ ﺎﻜ ﮯﻨﺮﻜ ﻝﺼﺎﺤ ﺖﺎﻤﻮﻠﻌﻤ ﮯﺌﻠﯿﻜ ٹﺭﻮﭙﺭ ﺲﺍ ۔ںﯿﮨ ﺎﯿﻜ ﺖﺎﯿﺭﻮﺮﻀ ﺭﻮﺍ ﺖﺎﻨﺎﻜﻤﺍ ۔ﮯﮨ ﺎﺘﻮﮨ ںﯿﻤ ﺮﺘﻓﺪ ﮯﻜ</p>
-    <p xml:lang="nob">. ہﻧﺍﺮﮨﺎﻣ<em type="italic"> </em>ۓﺍﺭ<em type="italic"> /</em>ﻩﺭﻮﺸﻣ<em type="italic"> </em></p>
-    <p xml:lang="nob">ﻨﺒ ﯽﻜ ٹﺭﻮﭙﺭ ﯽﻜ ﺖﯿﻔﯿﻜ ﺮﭙ ﺪﺎﯿﺲﻮﺮﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ  ﯽﺘﺮﻜ ﺭﺎﯿﺘ (ٹﺭﻮﭙﺭ یﺮﯿﺮﺤﺘ) ۓﺍﺭ ہﻨﺍﺮﮨﺎﻤ کﯿﺍ  ﺭﻮﺍ ﮯﮨﺮﭙ ﮯﻨﻮﮨ ﺖﺭﻮﺮﻀ  ﺎﯿ ﮯﮕﺎﮨ ﮯﻨﺭﺎﺒ ۓﻮﮨ ﮯﺘﻬﻜﺭ ﺮﻈﻨ ﺶﯿﭙ ﻮﻜ ﺖﺎﻨﺎﻜﻤﺍ ﮯﻜ ﻢﻠﻌﺒﻟﺎﻄ/ﮯﭽﺒےﺭﺍﺪﺍ ﯽﻤﯿﻠﻌﺘ  ںﯿﻤ  ﺖﺎﻤﺎﻈﺘﻨﺍ ںﻮﺯﻮﻤﯽﺘﺮﻜ ﺰﯿﻮﺠﺘ ۔ﮯﮨ ﺘﻮﮨ ہﯿ ﺖﻼﻤﺎﻌﻤ ﻦﯿﺮﺘ ﻢﺎﻋ ۔ﮯﮨ ﯽﺘﯿﺪ ﻩﺭﻮﺸﻤ ہﻨﺍﺮﮨﺎﻤ ﺲﻮﺮﺴںﯿﮨ ﮯ:  ﯽﻜ ﻝﻮﻜﺴ  ںﯿﻤ ﮯﻠﺴﻠﺴ ﮯﻜ ںﻮﻤﻠﻌﺒﻟﺎﻄ ﮯﻜ ﻝﻮﻜﺴ ﺭﻮﺍ  ﺪﺪﻤ ﯽﺼﻮﺼﺨ ﮯﺌﻠﯿﻜ ﻢﯿﻠﻌﺘ ںﯿﻤ ﮯﻠﺴﻠﺴ ﮯﻜ ںﻮﭽﺒ ﮯﮣﻮﻬﭽ ﮯﺴ ﺮﻤﻋ     ۔ۓﺍﺭ ںﯿﻤ ےﺭﺎﺒ ﮯﻜ ﻢﯿﻠﻌﺘ ﯽﺼﻮﺼﺨ</p>
-    <p xml:lang="nob">.<em type="bold"> </em>ﻩﺪﻨﺋﺁ<em type="italic"> </em>یﺮﻴﮔﺮﺒﺧ<em type="italic"> </em></p>
-    <p xml:lang="nob">ﺲﻮﺮﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ   ﯽﺌﺎﻤﻨﮨﺭ/ےﺭﻮﺸﻤ ﮯﺌﻠﯿﻜ ﻩﺬﺘﺎﺴﺍ ﮯﻜ ﻝﻮﻜﺴ ﺭﻮﺍ ﮯﻠﻤﻋ ﮯﻜ ﮯﮕﺎﮨ ﮯﻨﺭﺎﺒ/ﻦﯿﺪﻟﺍﻮ ﺖﺭﻮﺼ ﯽﻜ  ﻢﻠﻌﺒﻟﺎﻄ ﺲﻮﺮﺴ ۔ﮯﮨ ﯽﺘﻜﺴ ﺮﻜ یﺮﯿﮕﺮﺒﺨ ﻩﺪﻨﺌﺁ ںﯿﻤﮯﻨﯿﺪ ﺍﺭﺎﮩﺴ ﻮﻜ  ﺭﻮﺍ ﮯﮨ ﯽﺘﻜﺴ ﺮﻜ ﺖﯿﭽ ﺖﺎﺒ ﮯﺌﻠﯿﻜ</p>
-    <p xml:lang="nob">۔ﮯﮨ ﯽﺘﻜﺴ ﺮﻜ ﺭﻮﻏ ﺮﭙ ﮯﻨﺠﯿﻬﺒ ﺲﯿﻜ ﺲﺎﭙ ﮯﻜ ےﺭﺍﺪﺍ ﺭﻮﺍ ﯽﺴﻜ ﮯﮕﺁ ﻮﺘ ﻮﮨ ﺖﺭﻮﺮﻀ ﺮﮕﺍ  <em type="bold"> </em></p>
-    <p xml:lang="nob">ﺲﻮﺮﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ  ﺖﺎﻌﻓﺪ ﻝﯿﺬ ہﺠﺭﺪﻨﻤ ﯽﻜ ﺲﺠ ﮯﮨ ﺎﺘﻮﮨ ﺮﭙ ﺪﺎﯿﻨﺒ ﯽﻜ 'ﻢﯿﻠﻌﺘ ﻦﻮﻨﺎﻗ' ﻢﺎﻜ ﺎﻜںﯿﮨ ﺮﻜﺬ ﻝﺒﺎﻗ:<em type="bold"> </em></p>
-    <p xml:lang="nob"><em type="italic">§ 5- 1 </em> ﯽﺻﻮﺼﺧ<em type="italic"> </em>ﻢﻴﻠﻌﺗ<em type="italic"> </em>ﺎﮐ<em type="italic"> </em>ﻖﺣ <em type="italic">§ 5-3 </em> ہﻧﺍﺮﮨﺎﻣ<em type="italic"> </em>ۓﺍﺭ<em type="italic"> § 5-4 </em> ﯽﺻﻮﺼﺧ<em type="italic"> </em>ﻢﻴﻠﻌﺗ<em type="italic"> </em>ﮯﮐ<em type="italic"> </em>ﮯﻠﺼﻴﻓ<em type="italic"> </em>ﮯﮐ<em type="italic"> </em>ﮯﻠﺴﻠﺳ<em type="italic"> </em>ﮟﻴﻣ<em type="italic"> </em>ﺲﻴﮐ<em type="italic"> </em>ﺮﭘ<em type="italic"> </em>ﯽﺋﺍﻭﺭﺭﺎﮐ<em type="italic"> </em>§ 5-6 ﯽﻤﻴﻠﻌﺗ<em type="italic"> </em>ﻭ<em type="italic"> </em>ﯽﺗﺎﻴﺴﻔﻧ<em type="italic"> </em>ﮓﻨﻠﺴﻧﺅﺎﮐ<em type="italic"> </em>ﺱﻭﺮﺳ § 5-7  ﻢﻴﻠﻌﺗ<em type="italic"> </em>ﯽﻣﺯﻻ<em type="italic"> </em>ﮯﻧﻮﮨ<em type="italic"> </em>ﯽﮐ<em type="italic"> </em>ﺮﻤﻋ<em type="italic"> </em>ﮯﺳ<em type="italic"> </em>ﮯﻠﮩﭘ<em type="italic"> </em>ﻢﻴﻠﻌﺗ<em type="italic"> </em>ﮯﺌﻠﻴﮐ<em type="italic"> </em>ﯽﺻﻮﺼﺧ<em type="italic"> </em>ﺩﺪﻣ </p>
-    <p xml:lang="nob">2</p>
-  </body>
-</document>
+<document xml:lang="urd" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>831</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="urd"/></multilingual><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_urdu_faktaark.pdf</origFileName><parallel_text xml:lang="eng" location="ppt_engelsk_faktaark.pdf"/><parallel_text xml:lang="nno" location="ppt_nynorsk-faktaark.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_faktaark.pdf"/><parallel_text xml:lang="rus" location="ppt_russisk_faktaark.pdf"/><parallel_text xml:lang="sma" location="ppt_sorsamisk_faktaark.pdf"/><parallel_text xml:lang="sme" location="ppt_nordsamisk_faktaark.pdf"/><parallel_text xml:lang="smj" location="ppt_lulesamisk_faktaark.pdf"/><parallel_text location="ppt_arabisk_faktaark.pdf" xml:lang="ara"/><parallel_text location="ppt_persisk_faktaark.pdf" xml:lang="fas"/><parallel_text location="ppt_fransk_faktaark.pdf" xml:lang="fra"/><parallel_text location="ppt_sorani_faktaark.pdf" xml:lang="ckb"/><parallel_text location="ppt_vietnamesisk_faktaark.pdf" xml:lang="vie"/><parallel_text location="ppt_somalisk_faktaark.pdf" xml:lang="som"/><parallel_text location="ppt_tyrkisk_faktaark.pdf" xml:lang="tur"/><parallel_text location="ppt_polsk_faktaark.pdf" xml:lang="pol"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">ﺲﻮﺮﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ ﺖﺎﻤﻮﻠﻌﻤ ںﯿﻤ ےﺭﺎﺒ ﮯﻜ<em type="italic"> </em></p>
+<p xml:lang="nob"><em type="bold">ﺲﻮﺭﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ  (PPT) </em></p>
+<p xml:lang="nob">ﺲﻮﺮﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ  ﻬﺘﺎﺴ ﮯﻜ ﺭﺎﺼﺘﺨﺍ ﺮﺜﻜﺍ ﮯﺴﺠ)PPT    ﺎﯿPP-tjenesten (ﮯﮨ ﺎﺘﺎﺠ ﺎﮩﻜ  ﯽﮣﻨﺆﺎﻜ ﺎﯿ ہﯿﺪﻠﺒ  ﯽﮣﻠﭙﺴﻨﻮﯿﻤ(fylkeskommune)ﺖﺤﺘ ﮯﻜ  ﯽﺘﺭﻮﺎﺸﻤ کﯿﺍﺲﻮﺮﺴ ﮯﮨﻤ ﺎﻜ ﺲﺍ ۔ ﯽﻜ ﺪﺍﺮﻓﺍ ﻎﻟﺎﺒ ﺭﻮﺍ ںﻮﻨﺍﻮﺠﻮﻨ ،ںﻮﭽﺒ ﻦﺍ ﺪﺼﻘ ﻤﯿﻠﻌﺘ ﯽﻜ ﻦﺠ ﺎﯿ ںﻮﮨ ﻝﺌﺎﺴﻤ ﮯﻜ ﺎﻤﻨﻮﻮﺸﻨ ںﯿﮩﻨﺠ ﮯﮨ ﺎﻨﺮﻜ ﺪﺪﻤﯽ ۔ﻮﮨ ﻝﻜﺸﻤ ﻝﺎﺤﺘﺭﻮﺼ</p>
+<p xml:lang="nob">ﮕﺎﮨ ﮯﻨﺭﺎﺒ ہﻜ ﮯﮨ ﻝﻤﺎﺸ ﯽﻬﺒ ہﯿ ںﯿﻤ ںﻮﻤﺎﻜ ﮯﻜ ﺲﻮﺮﺴ ﺲﺍ ﻦﺍ ﻮﻜ ںﻮﻟﻮﻜﺴ ﺭﻮﺍ (ﺰﻜﺍﺮﻤ ﯽﺘﺸﺍﺪﮩﮕﻨ ﮯﻜ ںﻮﭽﺒ ﮯﮣﻮﻬﭽ) ﺮ ﺌﻠﯿﻜ ﮯﻨﺮﻜ ﺖﺎﻤﺎﻈﺘﻨﺍ ںﻮﺯﻮﻤ ﮯﺌﻠﯿﻜ ںﻮﻤﻠﻌﺒﻟﺎﻄ/ںﻮﭽﺒ۔ﻮﮨ ﺖﺭﻮﺮﻀ ﯽﻜ ﺖﺎﻤﺎﻈﺘﻨﺍ ﮯﺴﯿﺍ ںﯿﮩﻨﺠ ےﺪ ﯽﺌﺎﻤﻨﮨﺭ ﻮ ﻩﺭﻮﺸﻤ ﮯ</p>
+<p xml:lang="nob">ﺲﻮﺮﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ  ﻢﺎﻈﺘﻨﺍ ﺮﺘﮩﺒ ﺎﻜ ﻢﯿﻠﻌﺘ ﯽﻜ ںﻮﻤﻠﻌﺒﻟﺎﻄ ﮯﻟﺍﻮ ﮯﻨﻬﻜﺭ ﺖﺎﯿﺭﻮﺮﻀ ﯽﺼﻮﺼﺨ ہﻜ ﮯﮨ ﻢﺎﻜ ﺎﻜ  ﺪﺪﻤ ﻮﻜ ںﻮﻟﻮﻜﺴ ﮯﺌﻠﯿﻜ ﮯﻨﺮﻜﺪ۔ے</p>
+<p xml:lang="nob">ﻮﻜ ﺖﺎﻤﻮﻠﻌﻤ ںﯿﻤ ےﺭﺎﺒ ﮯﻜ ﻢﻠﻌﺒﻟﺎﻄ/ﮯﭽﺒ  ۔ﮯﮨ یﺪﻨﺒﺎﭙ ﯽﻜ یﺭﺍﺪﺯﺍﺭ ﺮﭙ ﺲﻮﺮﺴ ﺲﺍ  ﯽﻜ ﻦﯿﺪﻟﺍﻮ ﺭﻮﺍ ﺎﺘﻜﺴ ﺎﺠ ﺎﯿﻜ ںﯿﮩﻨ ﻢﺎﻋ</p>
+<p xml:lang="nob">ﻮﻜ ﺖﺎﻤﻮﻠﻌﻤ ںﯿﻤ ےﺭﺎﺒ ﮯﻜ ﻢﻠﻌﺒﻟﺎﻄ/ﮯﭽﺒ ۔ںﯿﺘﺎﺠ یﺪ ںﯿﮩﻨ ﻮﻜ ﯽﺴﻜ ﮯﮕﺁ ﺖﺎﻤﻮﻠﻌﻤ ہﯿﺮﯿﻐﺒ ﮯﻜ یﺭﻮﻈﻨﻤﯽﮣﺭﺎﻬﺘﺍ ﻦﺸﻜﯿﮣﻮﺮﭙ ﺎﮣﺍڈ (Datatilsynet)  گﻟﺍ کﯿﺍ ﻖﺒﺎﻄﻤ ﮯﻜ ﺖﺎﯿﺍﺪﮨ ﯽﻜ/کﺒ ڈﺭﺎﻜﯿﺭ۔ﮯﮨ ﺎﺘﺎﺠ ﺎﻬﻜﺭ ﻈﻮﻔﺤﻤ ںﯿﻤ ﻝﺌﺎﻓ</p>
+<p xml:lang="nob"><em type="bold">ﺲﻮﺭﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ ؟ﮯﮨ ﯽﺘﺭﻜ ﺎﯿﻜ </em></p>
+<p xml:lang="nob">ﺲﻮﺮﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ  ﮯﮨ ﯽﺘﺮﻜ ﺭﺎﯿﺘ ٹﺭﻮﭙﺭ ﯽﻜ ﺖﯿﻔﯿﻜ ﯽﻜ ںﻮﻐﻟﺎﺒ ﺭﻮﺍ ںﻮﻨﺍﻮﺠﻮﻨ ،ںﻮﭽﺒ ﻦﺍﺭﻮﺍ  ﻮ ﻩﺭﻮﺸﻤ  ںﯿﮩﻨﺠ ﮯﮨ ﯽﺘﺮﻜ ﺎﯿﮩﻤ ﯽﺌﺎﻤﻨﮨﺭﻮﮨ ﺎﻨﻤﺎﺴ ﺎﻜ ﻝﺌﺎﺴﻤ ﻦﺍ</p>
+<p type="listitem" xml:lang="nob">• ﻝﺌﺎﺴﻤ ﮯﻜ ﮯﻨﻟﻮﺒ ﺭﻮﺍ ﻦﺎﺒﺯ</p>
+<p type="listitem" xml:lang="nob">• ﻝﺌﺎﺴﻤ ﮯﺴ ﮯﻟﺍﻮﺤ ﮯﻜ ﻦﯿﻤﺎﻀﻤ ﺎﯿ ﻝﺌﺎﺴﻤ ﯽﻤﻮﻤﻋ ﮯﻜ ﮯﻨﻬﻜﯿﺴ</p>
+<p type="listitem" xml:lang="nob">• ﯿﻤ ﮯﻨﻬﻜﻟ ﺭﻮﺍ ﮯﻨﻫﮍﭙﻝﺌﺎﺴﻤ ں</p>
+<p type="listitem" xml:lang="nob">• ﻝﺌﺎﺴﻤ ﮯﺴ ﮯﻟﺍﻮﺤ ﮯﻜ ﺐﺎﺴﺤ</p>
+<p type="listitem" xml:lang="nob">• ﻝﺌﺎﺴﻤ ںﯿﻤ ﮯﻨﻬﻜﺭ ﺭﺍﺮﻗﺮﺒ ہﺠﻮﺘ</p>
+<p type="listitem" xml:lang="nob">• ﻝﺌﺎﺴﻤ ﯽﺘﺎﺒﺬﺠ ﺭﻮﺍ ﻝﺸﻮﺴ</p>
+<p type="listitem" xml:lang="nob">• ﻝﺌﺎﺴﻤ ﮯﻜ ﮯّﯿﻮﺭ</p>
+<p type="listitem" xml:lang="nob">• ﻝﺌﺎﺴﻤ ﮯﻜ ﺖﻋﺎﻤﺴ ﺭﻮﺍ ﺮﻈﻨ</p>
+<p xml:lang="nob"><em type="bold"> ﻩﺪﻟﺍﻮ/ﺪﻟﺍﻮ ﺖﯿﺜﯿﺤﺒ پﺁﺲﻮﺭﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ  ﮯﺘﻜﺴ ﺭﻜ ہﻄﺒﺍﺭ ﮯﺴﯿﻜ ﮯﺴ</em> <em type="bold"> ؟ںﯿﮨ </em></p>
+<p xml:lang="nob">ﺴ/ﮯﮕﺎﮨ ﮯﻨﺭﺎﺒ/ﻦﺸﯿﮣﺴ ﻬﺘﻠﯿﮨ ﻮﻜ پﺁ ﮯﻠﮩﭙ ﮯﺴ ﮯﻨﺮﻜ ہﻄﺒﺍﺭ ﮯﺴ ﺲﻮﺮﺴ ﺮﭙ ﺶﯿﻮﺸﺘ ﯽﻨﭙﺍ ںﯿﻤ ےﺭﺎﺒ ﮯﻜ ﮯﭽﺒ ﻬﺘﺎﺴ ﮯﻜ ﻝﻮﻜ  ۔ﮯﺌﯿﮨﺎﭽ ﯽﻨﺮﻜ ﺖﺎﺒ  ﺪﺪﻤ ﯽﻜ ﺪﺍﺮﻓﺍ ﻎﻟﺎﺒ ﻦﺍ ﺲﻮﺮﺴ ۔ںﯿﮨ ﮯﺘﻜﺴ ﺮﻜ ہﻄﺒﺍﺭ ﮯﺴ ﺲﻮﺮﺴ ﯽﻬﺒ ﻢﻠﻌﺒﻟﺎﻄ ﮯﻜ ﺮﻤﻋ ﻩﺪﺎﯿﺯ ﮯﺴ ﻝﺎﺴ</p>
+<p xml:lang="nob">۔ںﻮﮨ ﮯﺘﮨﺎﭽ ﺎﻨﺮﻜ ﻝﺼﺎﺤ ﻢﯿﻠﻌﺘ ﯽﻜ ﻝﻮﻜﺴ ﯽﺌﺎﮨ ﺎﯿ یﺮﻤﺌﺍﺮﭙ ﻮﺠ ﮯﮨ ﯽﺘﻜﺴ ﺮﻜ ﯽﻬﺒ</p>
+<p xml:lang="nob">،ﮯﮕﺎﮨ ﮯﻨﺭﺎﺒ) ےﺭﺍﺪﺍ ﻬﺘﺎﺴ ﻬﺘﺎﺴ ﮯﻜ ﺪﺍﺮﻓﺍۓﻮﮨ ﮯﺘﻬﻜﺭ ہﯿﻔﺨ ﻢﺎﻨ ﺎﻨﭙﺍ ﯽﻬﺒ (ےﺭﺍﺪﺍ ےﺮﺴﻮﺪ ﺭﻮﺍ ﻝﻮﻜﺴ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ ﺲﻮﺮﺴ گﻨﻠﺴﻨﺆﺎﻜ ۔ںﯿﮨ ﮯﺘﻜﺴ گﻨﺎﻤ ﻩﺭﻮﺸﻤ ﮯﻜ ﺮﻜ ہﻄﺒﺍﺭ ﮯﺴ</p>
+<p xml:lang="nob">ﺮﮕﺍﺲﻮﺮﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ  ﺎﺠ ﺎﺠﯿﻬﺒ ﺲﺎﭙ ﮯﻜ ﺲﻮﺮﺴ ﺲﯿﻜ ﺎﻜ ﻢﻠﻌﺒﻟﺎﻄ/ﮯﭽﺒ ﻮﺘ ﻮﮨ یﺭﻮﺮﻀ ﺎﻨﯿﻟ ﺪﺪﻤ ﺪﯿﺰﻤ ﮯﺴ  ﮯﻨﺠﯿﻬﺒ ﺲﯿﻜ ﺲﺎﭙ ﮯﻜ ﺲﻮﺮﺴ  ۔ﮯﮨ ﺎﺘﻜﺴ(Henvisning)  ﯽﻨﭙﺍ ،ﮯﮨ ﺎﺘﺎﺠ ﺎﯿﻜ ﻝﺎﻤﻌﺘﺴﺍ ﻢﺭﺎﻓ ﻝﺮﻔﯿﺭ کﯿﺍ ﻢﻮﻤﻌﻟﺎﺒ ﮯﺌﻠﯿﻜ  ہﻄﺒﺍﺭ ﮯﺴ ﻝﻮﻜﺴ/ﮯﮕﺎﮨ ﮯﻨﺭﺎﺒ ﮯﺌﻠﯿﻜ ﮯﻨﯿﻟ ﺪﺪﻤ ںﯿﻤ ﮯﻨ ﺮﻜ ﻝﻤﻜﻤ ﻢﺭﺎﻓ ﻝﺮﻔﯿﺭ ۔ںﯿﻬﻜﯿﺪ ٹﯿﺌﺎﺴ ﺐﯿﻮ ﺎﻜ ﯽﮣﻠﭙﺴﻨﻮﯿﻤ ﯽﮣﻨﺆﺎﻜ/ہﯿﺪﻠﺒ ۔ںﯿﺮﻜ</p>
+<p xml:lang="nob">ﻮﺠ ےﺮﺴﻮﺪﺲﻮﺮﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ :ںﯿﮨ ﮯﺘﻜﺴ ﺞﯿﻬﺒ ﺲﯿﻜ ﺲﺎﭙ ﮯﻜ</p>
+<p xml:lang="nob">1</p>
+<p type="listitem" xml:lang="nob">• ﻩﺭﺍﺪﺍ ﺎﻜ ںﺎﻐﻟﺎﺒ ﻢﯿﻠﻌﺘ ﺭﻮﺍ ﻝﻮﻜﺴ ،ﮯﮕﺎﮨ ﮯﻨﺭﺎﺒ</p>
+<p type="listitem" xml:lang="nob">•  ﻢﻠﻌﺒﻟﺎﻄ/ہﭽﺒ ﺮﮕﺍ ،ﻝﺎﺘﭙﺴﮨ ﺭﻮﺍ ﻦﺸﯿﮣﺴ ﻬﺘﻠﯿﮨ ۔ﮯﻜ ﺮﻜ ﻝﺼﺎﺤ ﺖﺯﺎﺠﺍ ﮯﺴ ﻦﯿﺪﻟﺍﻮ ﻮﺘ ﻮﮨ ﺎﻜ ﺮﻤﻋ ﻢﻜ ﮯﺴ ﻝﺎﺴ</p>
+<p xml:lang="nob">ﻢﯿﻠﻌﺘ ﯽﺼﻮﺼﺨ ﻮﻜ ﻢﻠﻌﺒﻟﺎﻄ ﺎﯿﺁ ہﻜ ےﺮﻜ ٹﺴﯿﮣ یﺭﻮﺮﻀ ﮯﺌﻠﯿﻜﮯﻨﻼﭽ ہﺘﭙ ہﯿ ﻝﻮﻜﺴ ہﻜ  ںﯿﮨ ﮯﺘﻜﺴ ﺮﻜ ﺎﻀﺎﻘﺘ ﻦﯿﺪﻟﺍﻮ ﺎﯿ ﻢﻠﻌﺒﻟﺎﻄ ﮨ ﺖﺭﻮﺮﻀ ﯽﻜ۔ﮯﮨ  ﺖﺭﻮﺮﻀ ﯽﻜ ﻢﯿﻠﻌﺘ ﯽﻜ ﻢﺴﻗ ﺲﻜ ﻮﺘ ﻮﮨ ںﯿﻤ ںﺎﮨ ﺐﺍﻮﺠ ﺮﮕﺍ ﺭﻮﺍ ﮯ</p>
+<p xml:lang="nob"><em type="bold">ﺲﻮﺭﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ ؟ﮯﮨ ﯽﺘﺭﻜ ﻢﺎﻜ ﺡﺭﻄ ﺲﻜ </em></p>
+<p xml:lang="nob">ﺲﻮﺮﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ  ﮯﻜ ﺖﺎﻨﺎﻜﻤﺍ ﮯﻜ ﻢﻠﻌﺒﻟﺎﻄ/ﮯﭽﺒ ۓﻮﮨ ﮯﺘﺮﻜ ﻢﺎﻜ ﮯﺴ ﻦﻮﺎﻌﺘ ﮯﻜ ﻝﻮﻜﺴ ﺭﻮﺍ ﮯﮕﺎﮨ ﮯﻨﺭﺎﺒ</p>
+<p xml:lang="nob">ﯿﻤ ﺲﻮﺮﺴ ﺲﺍ ۔ﮯﮨ ﯽﺘﺮﻜ ﺎﯿﮩﻤ ﺶﻜﺸﯿﭙ ںﻮﺯﻮﻤ ﻖﺒﺎﻄﻤ:ﮯﮨ ﺎﺘﻜﺴ ﺎﺠ ﺎﯿﻜ ﻢﯿﺴﻘﺘ ںﯿﻤ ںﻮﻠﺤﺮﻤ ﻦﯿﺘ ﻮﻜ ﯽﺌﺍﻮﺭﺭﺎﻜ ﺮﭙ ںﻮﺴﯿﻜ ں</p>
+<p xml:lang="nob">. ﺖﻴﻔﻴﮐ<em type="italic"> </em>ﯽﮐ<em type="italic"> </em>ٹﺭﻮﭘﺭ<em type="italic"> </em></p>
+<p xml:lang="nob">ﺐﺠﺲﻮﺮﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ  ﻮﻜ ﻉﻼﻄﺍ/ﺲﯿﻜ کﯿﺍﮯﻠﻤ  ،ﻦﯿﺪﻟﺍﻮ ہﻜ ﮯﮨ ﺎﺘﺎﺠ ﺎﯿﻜ ہﺘﭙ ہﯿ ﺮﭙ ﺭﻮﻄ ﻢﺎﻋ ﻮﺘ ﺪﮨﺎﺸﻤ ،ﻮﯿﻮﺮﮣﻨﺍ/ﺖﯿﭽ ﺖﺎﺒ ۔ںﯿﮨ ﮯﺘﮨﺎﭽ ﺪﺪﻤ ںﯿﻤ ﮯﻠﺴﻠﺴ ﺲﻜ  ،ﮯﺴ ﻦﻮﺎﻌﺘ ﮯﻜ ﻝﻮﻜﺴ ﺎﯿﮯﮕﺎﮨ ﮯﻨﺭﺎﺒ گﻨﮣﺴﯿﮣ ﺭﻮﺍ ے  ﻝﻤﻜﻤ ﻩﺪﺎﯿﺯ ﮯﺴ ﻩﺪﺎﯿﺯ ںﯿﻤ ےﺭﺎﺒ ﺲﺍ ﺲﻮﺮﺴ ﮯﻌﯿﺭﺬ ﮯﻜﻜ ﻝﺼﺎﺤ ﺖﺎﻤﻮﻠﻌﻤ ﮯﻜ ﻢﻠﻌﺒﻟﺎﻄ/ﮯﭽﺒ ہﻜ ﮯﮨ ﯽﺘﯿﻟ ﺮ  ﺲﻮﺮﺴ ﺎﯿ ﻝﻮﻜﺴ ،ﮯﮕﺎﮨ ﮯﻨﺭﺎﺒ ﻢﺎﻜ ﺎﻜ ﮯﻨﺮﻜ ﻝﺼﺎﺤ ﺖﺎﻤﻮﻠﻌﻤ ﮯﺌﻠﯿﻜ ٹﺭﻮﭙﺭ ﺲﺍ ۔ںﯿﮨ ﺎﯿﻜ ﺖﺎﯿﺭﻮﺮﻀ ﺭﻮﺍ ﺖﺎﻨﺎﻜﻤﺍ ۔ﮯﮨ ﺎﺘﻮﮨ ںﯿﻤ ﺮﺘﻓﺪ ﮯﻜ</p>
+<p xml:lang="nob">. ہﻧﺍﺮﮨﺎﻣ<em type="italic"> </em>ۓﺍﺭ<em type="italic"> /</em>ﻩﺭﻮﺸﻣ<em type="italic"> </em></p>
+<p xml:lang="nob">ﻨﺒ ﯽﻜ ٹﺭﻮﭙﺭ ﯽﻜ ﺖﯿﻔﯿﻜ ﺮﭙ ﺪﺎﯿﺲﻮﺮﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ  ﯽﺘﺮﻜ ﺭﺎﯿﺘ (ٹﺭﻮﭙﺭ یﺮﯿﺮﺤﺘ) ۓﺍﺭ ہﻨﺍﺮﮨﺎﻤ کﯿﺍ  ﺭﻮﺍ ﮯﮨﺮﭙ ﮯﻨﻮﮨ ﺖﺭﻮﺮﻀ  ﺎﯿ ﮯﮕﺎﮨ ﮯﻨﺭﺎﺒ ۓﻮﮨ ﮯﺘﻬﻜﺭ ﺮﻈﻨ ﺶﯿﭙ ﻮﻜ ﺖﺎﻨﺎﻜﻤﺍ ﮯﻜ ﻢﻠﻌﺒﻟﺎﻄ/ﮯﭽﺒےﺭﺍﺪﺍ ﯽﻤﯿﻠﻌﺘ  ںﯿﻤ  ﺖﺎﻤﺎﻈﺘﻨﺍ ںﻮﺯﻮﻤﯽﺘﺮﻜ ﺰﯿﻮﺠﺘ ۔ﮯﮨ ﺘﻮﮨ ہﯿ ﺖﻼﻤﺎﻌﻤ ﻦﯿﺮﺘ ﻢﺎﻋ ۔ﮯﮨ ﯽﺘﯿﺪ ﻩﺭﻮﺸﻤ ہﻨﺍﺮﮨﺎﻤ ﺲﻮﺮﺴںﯿﮨ ﮯ:  ﯽﻜ ﻝﻮﻜﺴ  ںﯿﻤ ﮯﻠﺴﻠﺴ ﮯﻜ ںﻮﻤﻠﻌﺒﻟﺎﻄ ﮯﻜ ﻝﻮﻜﺴ ﺭﻮﺍ  ﺪﺪﻤ ﯽﺼﻮﺼﺨ ﮯﺌﻠﯿﻜ ﻢﯿﻠﻌﺘ ںﯿﻤ ﮯﻠﺴﻠﺴ ﮯﻜ ںﻮﭽﺒ ﮯﮣﻮﻬﭽ ﮯﺴ ﺮﻤﻋ     ۔ۓﺍﺭ ںﯿﻤ ےﺭﺎﺒ ﮯﻜ ﻢﯿﻠﻌﺘ ﯽﺼﻮﺼﺨ</p>
+<p xml:lang="nob">.<em type="bold"> </em>ﻩﺪﻨﺋﺁ<em type="italic"> </em>یﺮﻴﮔﺮﺒﺧ<em type="italic"> </em></p>
+<p xml:lang="nob">ﺲﻮﺮﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ   ﯽﺌﺎﻤﻨﮨﺭ/ےﺭﻮﺸﻤ ﮯﺌﻠﯿﻜ ﻩﺬﺘﺎﺴﺍ ﮯﻜ ﻝﻮﻜﺴ ﺭﻮﺍ ﮯﻠﻤﻋ ﮯﻜ ﮯﮕﺎﮨ ﮯﻨﺭﺎﺒ/ﻦﯿﺪﻟﺍﻮ ﺖﺭﻮﺼ ﯽﻜ  ﻢﻠﻌﺒﻟﺎﻄ ﺲﻮﺮﺴ ۔ﮯﮨ ﯽﺘﻜﺴ ﺮﻜ یﺮﯿﮕﺮﺒﺨ ﻩﺪﻨﺌﺁ ںﯿﻤﮯﻨﯿﺪ ﺍﺭﺎﮩﺴ ﻮﻜ  ﺭﻮﺍ ﮯﮨ ﯽﺘﻜﺴ ﺮﻜ ﺖﯿﭽ ﺖﺎﺒ ﮯﺌﻠﯿﻜ</p>
+<p xml:lang="nob">۔ﮯﮨ ﯽﺘﻜﺴ ﺮﻜ ﺭﻮﻏ ﺮﭙ ﮯﻨﺠﯿﻬﺒ ﺲﯿﻜ ﺲﺎﭙ ﮯﻜ ےﺭﺍﺪﺍ ﺭﻮﺍ ﯽﺴﻜ ﮯﮕﺁ ﻮﺘ ﻮﮨ ﺖﺭﻮﺮﻀ ﺮﮕﺍ  <em type="bold"> </em></p>
+<p xml:lang="nob">ﺲﻮﺮﺴ گﻨﻠﺴﻨﺆﺎﻜ ﯽﺘﺎﯿﺴﻔﻨ ﻮ ﯽﻤﯿﻠﻌﺘ  ﺖﺎﻌﻓﺪ ﻝﯿﺬ ہﺠﺭﺪﻨﻤ ﯽﻜ ﺲﺠ ﮯﮨ ﺎﺘﻮﮨ ﺮﭙ ﺪﺎﯿﻨﺒ ﯽﻜ 'ﻢﯿﻠﻌﺘ ﻦﻮﻨﺎﻗ' ﻢﺎﻜ ﺎﻜںﯿﮨ ﺮﻜﺬ ﻝﺒﺎﻗ:<em type="bold"> </em></p>
+<p xml:lang="nob"><em type="italic">§ 5- 1 </em> ﯽﺻﻮﺼﺧ<em type="italic"> </em>ﻢﻴﻠﻌﺗ<em type="italic"> </em>ﺎﮐ<em type="italic"> </em>ﻖﺣ <em type="italic">§ 5-3 </em> ہﻧﺍﺮﮨﺎﻣ<em type="italic"> </em>ۓﺍﺭ<em type="italic"> § 5-4 </em> ﯽﺻﻮﺼﺧ<em type="italic"> </em>ﻢﻴﻠﻌﺗ<em type="italic"> </em>ﮯﮐ<em type="italic"> </em>ﮯﻠﺼﻴﻓ<em type="italic"> </em>ﮯﮐ<em type="italic"> </em>ﮯﻠﺴﻠﺳ<em type="italic"> </em>ﮟﻴﻣ<em type="italic"> </em>ﺲﻴﮐ<em type="italic"> </em>ﺮﭘ<em type="italic"> </em>ﯽﺋﺍﻭﺭﺭﺎﮐ<em type="italic"> </em>§ 5-6 ﯽﻤﻴﻠﻌﺗ<em type="italic"> </em>ﻭ<em type="italic"> </em>ﯽﺗﺎﻴﺴﻔﻧ<em type="italic"> </em>ﮓﻨﻠﺴﻧﺅﺎﮐ<em type="italic"> </em>ﺱﻭﺮﺳ § 5-7  ﻢﻴﻠﻌﺗ<em type="italic"> </em>ﯽﻣﺯﻻ<em type="italic"> </em>ﮯﻧﻮﮨ<em type="italic"> </em>ﯽﮐ<em type="italic"> </em>ﺮﻤﻋ<em type="italic"> </em>ﮯﺳ<em type="italic"> </em>ﮯﻠﮩﭘ<em type="italic"> </em>ﻢﻴﻠﻌﺗ<em type="italic"> </em>ﮯﺌﻠﻴﮐ<em type="italic"> </em>ﯽﺻﻮﺼﺧ<em type="italic"> </em>ﺩﺪﻣ </p>
+<p xml:lang="nob">2</p>
+</body></document>
